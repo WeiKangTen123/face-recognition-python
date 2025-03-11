@@ -1,0 +1,23 @@
+Step 1:
+Create a virtual environment:
+-------------------------------------
+python -m venv env
+.\env\Scripts\activate
+
+Step 2: 
+install package
+---------------------------------------------
+python -m pip install cmake
+python -m pip install face_recognition
+python -m pip install opencv-python
+
+
+--------------------------------------------------------
+use virtual env to execute the program
+
+
+sample:
+
+(env) PS C:\Users\weika\OneDrive\Desktop\Degree Y2S3\IOT Assignment> 
+
+前面会有（env）的
